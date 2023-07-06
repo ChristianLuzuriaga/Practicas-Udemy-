@@ -1,1 +1,16 @@
 //CERTIFICADO UDEMY=https://udla.udemy.com/certificate/UC-028bea2f-154b-4b21-ba11-7a35e97d6cee/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com
+*/Fundamentos de C: Hemos explorado los conceptos básicos de programación en C, incluyendo la inclusión de encabezados, la entrada y salida
+ de datos, las estructuras de control, los arreglos y las cadenas de caracteres.
+
+Buena práctica y seguridad: Hemos destacado la importancia de seguir buenas prácticas de programación,
+ como evitar funciones inseguras, trabajar con límites de arreglos y liberar memoria correctamente.
+
+Memoria dinámica: Hemos aprendido sobre la asignación de memoria dinámica utilizando malloc() y la liberación de memoria utilizando free().
+ Esto es útil cuando necesitamos asignar memoria en tiempo de ejecución para estructuras de datos más flexibles.
+
+Manipulación de datos: Hemos visto cómo trabajar con diferentes tipos de datos, desde enteros y flotantes hasta cadenas de caracteres.
+ También hemos aprendido a realizar operaciones básicas como cálculos matemáticos y manipulación de cadenas.
+
+Práctica y experimentación: A lo largo de los ejemplos, se ha destacado la importancia de practicar y experimentar.
+ La programación es un proceso de aprendizaje continuo, y la práctica constante te ayudará a mejorar tus habilidades y a familiarizarte 
+ con el lenguaje y sus características.*/
